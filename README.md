@@ -1,4 +1,4 @@
-# ✨ ## Hi there 👋, I'm wsws!
+# ✨ Hi there 👋, I'm wsws!
 
 > 💡 *Passionate about building & sharing cool stuff I hope you love it!*
 ---
