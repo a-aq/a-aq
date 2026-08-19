@@ -4,6 +4,6 @@
 ---
 ### **📌 About Me**
 
-* 🎓 **Education:** First-year Computer Science student*
-* 💻 **Programming Languages:** `C++` | `Python`*
-* 🌐 **Web Development:** `HTML5` | `CSS3` | `JavaScript`*
+* 🎓 **Education:** First-year Computer Science student**
+* 💻 **Programming Languages:** `C++` | `Python`**
+* 🌐 **Web Development:** `HTML5` | `CSS3` | `JavaScript`**
