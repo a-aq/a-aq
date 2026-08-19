@@ -1,6 +1,6 @@
 
 #  About Me:
-# ✨ Hi there , I'm wsws!<br><br>> 💡 *Passionate about building & sharing cool stuff I hope you love it!*<br>---<br>### **📌 About Me**<br><br>* 🎓 **Education:** First-year Computer Science student<br>* 💻 **Programming Languages:** `C++` | `Python`<br>* 🌐 **Web Development:** `HTML5` | `CSS3` | `JavaScript`<br>
+# ✨ Hi there , I'm wsws!<br><br> 💡 *Passionate about building & sharing cool stuff I hope you love it!*<br>---<br>    **📌 About Me**<br><br> 🎓 **Education:** First-year Computer Science student<br> 💻 **Programming Languages:** `C++` | `Python`<br> 🌐 **Web Development:** `HTML5` | `CSS3` | `JavaScript`<br>
 
 
 ## 🌐 Socials:
